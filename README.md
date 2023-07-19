@@ -7,3 +7,7 @@ This program came to be due to people excessively asking about the release data 
 - (Tested on) Python 3.10
   - PIL library
 - A sense of humor
+
+## Usage
+
+Simply execute `main.py`. The program will do the rest.
