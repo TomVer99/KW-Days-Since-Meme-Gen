@@ -11,3 +11,21 @@ This program came to be due to people excessively asking about the release data 
 ## Usage
 
 Simply execute `main.py`. The program will do the rest.
+
+## Updating the save file
+
+In case your save file gets out of date, you can manually update it.
+The save file is located in the same directory as `main.py` and is called `save.txt`.
+The format is as follows:
+
+```text
+<year>-<month>-<day>
+<record days>
+```
+
+Example:
+
+```text
+2023-07-18
+12
+``````
